@@ -1,114 +1,149 @@
+
+
 # **Muhammad Nayeem**  
 ### **Full Stack Developer / Programmer**  
 
-- **Phone**: +880 1303 571 531 
-- **Email**: naye2m@outlook.com
-- **LinkedIn**: [linkedin.com/in/naye2m](https://linkedin.com/in/naye2m)  
-- **GitHub**: [github.com/naye2m](https://github.com/naye2m)
+📞 **Phone**: +880 1303 571 531  
+✉️ **Email**: naye2m@outlook.com  
+🔗 **LinkedIn**: [linkedin.com/in/naye2m](https://linkedin.com/in/naye2m)  
+🐙 **GitHub**: [github.com/naye2m](https://github.com/naye2m)
 
 ---
 
-### Professional Summary
-Passionate and highly skilled Full Stack Developer with a deep understanding of both front-end and back-end technologies. Equipped with extensive experience in web development, programming, and UI/UX design, specializing in JavaScript, Python, Flask, and Django. Adept at solving complex problems, building responsive applications, and delivering user-friendly solutions. Experienced in creating innovative projects such as a Sudoku solver, vouchering web apps, and web-based games. Eager to contribute technical expertise to diverse projects and collaborate effectively in dynamic team environments.
+## 🌐 **Connect with Me**:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naye2m)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/naye2m)
+[![X (Twitter)](https://img.shields.io/badge/X-000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/_naye2m)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/xqFQTDnV)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/naye2m)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/naye2m)
+[![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat&logo=codepen&logoColor=white)](https://codepen.io/naye2m)
+
 
 ---
 
-### Core Skills
-- **Front-End**: HTML5, CSS3, JavaScript (ES6), React.js, TypeScript, jQuery, Responsive Web Design
-- **Back-End**: Python (Flask, Django), PHP, C, C++, Java, FastAPI, Django REST Framework
-- **Databases**: MySQL, SQLite3, NoSQL(ORM)
-- **Development Tools**: Git, GitHub, Office 365, Version Control, Command Line Interface (CLI)
-- **Web Development**: API development, RESTful APIs, AJAX, JSON, Website Administration
-- **UI/UX Design**: Figma, Adobe Illustrator, Adobe Photoshop, User Interface (UI), User Experience (UX)
-- **Other Technologies**: Linux System Administration, Object-Relational Mapping (ORM), Object-Oriented Programming (OOP), Office 365, Test Scripts
-- **Programming Concepts**: Algorithms, Data Structures, Problem Solving, Debugging
-- **Additional Skills**: C#, ASP.NET Core, SQL, ORM, Integrated Development Environments (IDE)
+## 💻 **Tech Stack**:
+
+### **Languages**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=dotnet&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) 
+
+### **Frameworks & Libraries**
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black) 
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+
+### **Tools & Technologies**
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%23E34F26.svg?style=flat&logo=nosql&logoColor=white)
+
+### **Design Tools**
+![Blender](https://img.shields.io/badge/Blender-black.svg?style=flat&logo=Blender&logoColor=white) 
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+### **Data Science & AI**
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 
 ---
 
-### Education
+## 🛠️ **Projects**:
 
-**CS50x: Introduction to Computer Science**  
-Harvard University – Completed with 100% Score | 2023  
-- Advanced knowledge of algorithms, programming fundamentals, and web development.
+### **Sudoku Solver Website**  
+[🔗 GitHub Repository](https://github.com/naye2m/sudoku-solver)  
+Built a fast and efficient Sudoku solver with a user-friendly interface using Python3, Flask, and JavaScript.
 
-**HSC in Business Management and Technology**  
-Bangladesh Technical Education Board – Completed (Result Pending)
+### **Vouchering Web App**  
+[🔗 GitHub – Making Voucher](https://github.com/naye2m/citizenitvouchering)  
+QR code-based vouchering system with automated email generation and validation, using Google Apps Script for the backend.
 
-**SSC in Business Studies**  
-Barishal Board – GPA: 4.22 (A)
-
----
-
-### Projects
-
-**Sudoku Solver Website**  
-[GitHub Repository](https://github.com/naye2m/sudoku-solver)  
-- Built a fast and efficient Sudoku solver with a user-friendly interface using Python3, Flask, C, JavaScript (ES6), HTML5, (littlebit of) bootstrap5 and CSS3.  
-- Best performance achieved in Chrome desktop.
-
-**Vouchering Web App**  
-- **Main Features**: Generate and validate QR codes for vouchers, automatically email vouchers to customers, and provide a simple, intuitive interface.  
-- **Technologies Used**: Google Apps Script for backend, no database required for recording vouchers.  
-- [GitHub – Making Voucher](https://github.com/naye2m/citizenitvouchering)  
-- [GitHub – Online Validation App](https://github.com/naye2m/citizenitonlinevoucher)
-
-**Web-Based Wordle Game**  
-[GitHub Repository](https://github.com/naye2m/wordle_html)  
-- A fun and engaging Wordle game built with JavaScript, (littlebit of) bootstrap5 and HTML5.
-
-**FPS Ball Shooting Game (Three.js)**  
-- A first-person shooter game built using Three.js. (GitHub link currently unavailable)
+### **Wordle Game**  
+[🔗 GitHub Repository](https://github.com/naye2m/wordle_html)  
+Developed an engaging Wordle game using JavaScript, HTML5, and CSS3.
 
 ---
 
-### Certifications
-- **CS50x**: Introduction to Computer Science, Harvard University – Completed with 100% Score
-- **JavaScript Certificates**: Animation, Automation, Debugging, and Coding Fundamentals  
+## 📊 **GitHub Stats**:
+![Nayeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naye2m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Nayeem's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=naye2m&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naye2m&layout=compact&theme=dark)
+---
+
+## 🏆 **GitHub Trophies**  
+![](https://github-profile-trophy.vercel.app/?username=naye2m&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🎓 **Education**
+
+- **CS50x: Introduction to Computer Science**  
+  Harvard University – Completed with 100% Score | 2023  
+
+- **HSC in Business Management and Technology**  
+  Bangladesh Technical Education Board – Result Pending  
+
+- **SSC in Business Studies**  
+  Barishal Board – GPA: 4.22 (A)
+
+---
+
+## 📜 **Certifications**:
+- **CS50x**: Harvard University  
 - **Responsive Web Design**: Certified in CSS3 and HTML5  
-- **SQL Intermediate**: Proficient in SQL, MySQL, and database management systems
+- **SQL Intermediate**: Proficient in MySQL, SQLite, and other database systems
 
 ---
 
-### Languages
-- **English**: Proficient
-- **Bangla**: Proficient
+## 🌱 **Professional Summary**  
+I am a Full Stack Developer passionate about web development, solving complex programming challenges, and contributing to innovative projects. With a strong technical foundation in front-end and back-end technologies, I am dedicated to building high-quality, responsive, and user-friendly applications.  
 
 ---
 
-### Additional Skills
-- Full-Stack Development  
-- Version Control (Git, GitHub)  
-- FastAPI  
-- Django REST Framework  
-- Office 365 and Google Apps Script  
-- Algorithms: Sorting, Merge Sort, Bubble Sort, Linear Search, Binary Search  
-- Data Structures: Arrays, Trees, Linked Lists, Hash Tables  
-- Management, Troubleshooting, Analytical Skills  
-- Fundimental of Large Language Models (LLM) and Artificial Intelligence (AI)  
+## 📫 **Get in Touch**  
+Feel free to reach out if you'd like to collaborate on a project or discuss software development ideas.  
+✉️ **Email**: naye2m@outlook.com
 
 ---
 
-### Personal Attributes
-- Excellent problem-solving skills  
-- Strong attention to detail  
-- Teamwork and collaboration abilities  
-- Self-driven and adaptable to new technologies
-
----
----
----
-
-- 👋 Hi, I’m @naye2m
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning to be better...
-- 💞️ I’m looking to collaborate on projects on webpage ...
-- 📫 You can reach me by emailing naye2m@outlook.com ...
-
-  
-- All Skills
--Management,Stack,Control Systems,JSON,Database Systems,Website Administration,Office 365,Databases,FastAPI,Django REST Framework,Algebra,Linear Algebra,Linux System Administration,Integrated Development Environments,Object-Relational Mapping (ORM),Programming Concepts,Java Development,TypeScript,React.js,Front-End Design,JavaScript Frameworks,Es6,ECMAScript,jQuery,PHP,HTML5,Teamwork,C#,IT Hardware Support,Bengali,Responsive Web Design,JavaScript,Content Management Systems (CMS),Web Framework,Software Design,ASP.NET Core,ASP.NET,.NET Framework,Test Scripts,C (Programming Language),Bangladesh,C++,Programming Languages,Object-Oriented Programming (OOP),Data Structures,Full-Stack Development,Algorithms,Computer Engineering,Attention to Detail,Written Communication,Troubleshooting,Software Troubleshooting,English,Bug Tracking,Command line,CLI,User interface ,Software Testing,User Interface Design,Debugging,User Experience (UX),HTML,Test Cases,Summaries,Code Review,Log Analysis,Analytical Skills,NoSQL,Information Technology,IT Integration,Large Language Models (LLM),Artificial Intelligence (AI),Programming,Problem Solving,Communication,Software Development,Server Side,Front-End Development,Django,Computer Science,Back-End Web Development,Application Programming Interfaces (API),Version Control,SQL,Python (Programming Language),MySQL,Git,Flask,Cascading Style Sheets (CSS),AJAX
-<!---
-naye2m/naye2m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=naye2m&icon=3&color=1)]()
