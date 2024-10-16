@@ -3,7 +3,7 @@
 # **Muhammad Nayeem**  
 ### **Full Stack Developer / Programmer**  
 
-📞 **Phone**: +880 1303 571 531  
+📞 **Phone**: [+880 1303 571 531](tel://+8801303571531)  
 ✉️ **Email**: naye2m@outlook.com  
 🔗 **LinkedIn**: [linkedin.com/in/naye2m](https://linkedin.com/in/naye2m)  
 🐙 **GitHub**: [github.com/naye2m](https://github.com/naye2m)
@@ -37,7 +37,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515) 
 
 ### **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
@@ -47,7 +46,6 @@
 ![Jinja](https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black) 
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 
 
 ### **Tools & Technologies**
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
