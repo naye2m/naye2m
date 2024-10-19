@@ -80,7 +80,7 @@
 ## 🛠️ **Projects**:
 
 ### **Sudoku Solver Website**  
-[🔗 GitHub Repository](https://github.com/naye2m/sudoku-solver)  
+[🔗 GitHub Repository]( https://github.com/naye2m/sudoku-solver )  
 Built a fast and efficient Sudoku solver with a user-friendly interface using Python3, Flask, and JavaScript.
 
 ### **Vouchering Web App**  
